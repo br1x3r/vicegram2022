@@ -1,0 +1,27 @@
+body {
+    background-image: url(../assets//logos/bg.png);
+    background-position: center;
+    background-size: cover;
+    color: #f0f8ff;
+}
+
+.jumbotron {
+    margin-top: 15vh;
+}
+
+.bgdark {
+    border-color: #000;
+}
+
+.jumbotron-25 {
+    margin-top: 35vh;
+}
+
+.vignette {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 100px black inset;
+}
